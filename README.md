@@ -1,5 +1,7 @@
 # dotfiles
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Reproduces this machine's global Claude Code setup on a new PC.
 
 ## What's tracked
