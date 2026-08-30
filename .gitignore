@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Never let per-project or secret-bearing config sneak into this repo
+*.local.json
+.env
+.env.*
